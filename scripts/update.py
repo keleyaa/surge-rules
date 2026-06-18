@@ -116,11 +116,10 @@ def parse_v2fly_domains(text, follow_includes=True, _depth=0):
             continue
         # 处理 full: 前缀（精确匹配）
         if line.startswith("full:"):
-            domains.append(("DOMAIN", line[5:]))
+            domains.append(("DOMAIN", line[5:].split("@")[0].strip()))
             continue
-        # 处理 regexp: 正则
+        # 跳过 regexp: 正则 (Surge RULE-SET 不支持 DOMAIN-REGEX)
         if line.startswith("regexp:"):
-            domains.append(("DOMAIN-REGEX", line[7:]))
             continue
         # 处理 @cn 等属性标记（忽略属性，只要域名）
         domain = line.split("@")[0].strip()

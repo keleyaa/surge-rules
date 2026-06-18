@@ -1,6 +1,6 @@
 # Game — 全平台游戏规则合集
-# 自动生成于 2026-06-18 22:23 UTC
-# 包含 17 个平台, 749 条规则
+# 自动生成于 2026-06-18 22:37 UTC
+# 包含 17 个平台, 745 条规则
 # 由各平台独立规则文件合并而来
 #
 # 用法: RULE-SET,<URL>,Proxy
@@ -228,9 +228,6 @@ DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,fortnite-vod.akamaized.net
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
-DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,cdngarenanow-a.akamaihd.net
 DOMAIN,dlgarenanow-a.akamaihd.net
@@ -271,7 +268,6 @@ DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,juequling.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$ @cn
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
@@ -637,9 +633,9 @@ DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
-DOMAIN,alibaba.cdn.steampipe.steamcontent.com @cn
-DOMAIN,lv.queniujq.cn @cn
-DOMAIN,xz.pphimalayanrt.com @cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,boombeach.com
@@ -696,7 +692,7 @@ DOMAIN,ubistatic22-a.akamaihd.net
 DOMAIN,ubistatic23-a.akamaihd.net
 DOMAIN,ubistatic24-a.akamaihd.net
 DOMAIN,ubisoft.siteintercept.qualtrics.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com @cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,masteroforion.com
 DOMAIN-SUFFIX,wargaming.com
 DOMAIN-SUFFIX,wargaming.net

@@ -1,6 +1,6 @@
 # epicgames — Epic Games Store / Fortnite / Unreal Engine
-# 自动生成于 2026-06-18 22:22 UTC
-# 域名数: 32
+# 自动生成于 2026-06-18 22:36 UTC
+# 域名数: 29
 # 上游源:
 #   - v2fly/domain-list-community/data/epicgames
 #   - 手动维护补充
@@ -35,6 +35,3 @@ DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,fortnite-vod.akamaized.net
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
-DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
