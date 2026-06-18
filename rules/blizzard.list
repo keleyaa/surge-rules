@@ -1,0 +1,33 @@
+# blizzard — Battle.net / WoW / OW / Diablo / Hearthstone
+# 自动生成于 2026-06-18 22:22 UTC
+# 域名数: 25
+# 上游源:
+#   - v2fly/domain-list-community/data/blizzard
+#   - 手动维护补充
+#
+# 用法: RULE-SET,<URL>,Proxy
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetcmsus-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
+DOMAIN,bnetshopus.akamaized.net
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN,blizzcon-a.akamaihd.net
+DOMAIN,blzmedia-a.akamaihd.net
+DOMAIN,blznav.akamaized.net
+DOMAIN-SUFFIX,blizzardgames.cn
+DOMAIN-SUFFIX,blzstatic.cn

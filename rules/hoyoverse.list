@@ -1,0 +1,16 @@
+# hoyoverse — HoYoverse / Genshin Impact Global / ZZZ
+# 自动生成于 2026-06-18 22:23 UTC
+# 域名数: 9
+# 上游源:
+#   - v2fly/domain-list-community/data/hoyoverse
+#
+# 用法: RULE-SET,<URL>,Proxy
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

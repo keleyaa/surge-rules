@@ -1,0 +1,12 @@
+# cygames — Cygames / Granblue Fantasy / Uma Musume / Priconne
+# 自动生成于 2026-06-18 22:22 UTC
+# 域名数: 5
+# 上游源:
+#   - v2fly/domain-list-community/data/cygames
+#
+# 用法: RULE-SET,<URL>,Proxy
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldflipper.akamaized.net
+DOMAIN-SUFFIX,umamusume.akamaized.net
