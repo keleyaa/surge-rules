@@ -1,6 +1,6 @@
 # Game — 全平台游戏规则合集
-# 自动生成于 2026-06-20 22:15 UTC
-# 包含 17 个平台, 745 条规则
+# 自动生成于 2026-06-21 22:18 UTC
+# 包含 17 个平台, 747 条规则
 # 由各平台独立规则文件合并而来
 #
 # 用法: RULE-SET,<URL>,Proxy
@@ -623,7 +623,9 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamugcquincy.blob.core.windows.net
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,client-update.queniuqe.com

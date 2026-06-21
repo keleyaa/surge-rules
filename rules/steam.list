@@ -1,6 +1,6 @@
 # steam — Steam / Valve / Dota 2 / Steam Deck
-# 自动生成于 2026-06-20 22:15 UTC
-# 域名数: 58
+# 自动生成于 2026-06-21 22:18 UTC
+# 域名数: 60
 # 上游源:
 #   - v2fly/domain-list-community/data/steam
 #
@@ -48,7 +48,9 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamugcquincy.blob.core.windows.net
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,client-update.queniuqe.com
