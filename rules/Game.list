@@ -1,6 +1,6 @@
 # Game — 全平台游戏规则合集
-# 自动生成于 2026-08-04 22:17 UTC
-# 包含 17 个平台, 747 条规则
+# 自动生成于 2026-08-05 22:15 UTC
+# 包含 17 个平台, 748 条规则
 # 由各平台独立规则文件合并而来
 #
 # 用法: RULE-SET,<URL>,Proxy
@@ -51,7 +51,6 @@ DOMAIN-SUFFIX,bejewled-stars.com
 DOMAIN-SUFFIX,bejeweledstars.com
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,chillingo.com
-DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
 DOMAIN-SUFFIX,crysis.jp
 DOMAIN-SUFFIX,dawngatechronicles.com
@@ -93,15 +92,11 @@ DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
 DOMAIN-SUFFIX,popcap.com
-DOMAIN-SUFFIX,projectapex.com
-DOMAIN-SUFFIX,pvzheroes.com
-DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,speedhunters.com
 DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,ssx3.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com
-DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,tnt-ea.com
 DOMAIN-SUFFIX,ultimaforever.com
@@ -112,6 +107,7 @@ DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
+DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,battlefield.com
 DOMAIN-SUFFIX,battlefield1943.com
 DOMAIN-SUFFIX,battlefield3.com
@@ -125,6 +121,8 @@ DOMAIN-SUFFIX,biowarestore.com
 DOMAIN-SUFFIX,eamythic.com
 DOMAIN-SUFFIX,eamythic.net
 DOMAIN-SUFFIX,cncrivals.com
+DOMAIN-SUFFIX,commandandconquer.com
+DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,camelot-europe.com
 DOMAIN-SUFFIX,camelotherald.com
 DOMAIN-SUFFIX,camelotherald.net
@@ -173,10 +171,12 @@ DOMAIN-SUFFIX,nfsworld.com
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,plantsvszombies2.com
 DOMAIN-SUFFIX,pvzgw2.com
+DOMAIN-SUFFIX,pvzheroes.com
 DOMAIN-SUFFIX,seaofsolitude.com
 DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,skate2.com
+DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,starwarsfallenorder.com
 DOMAIN-SUFFIX,starwarsjedifallenorder.com
 DOMAIN-SUFFIX,starwarstheoldrepublic.com
@@ -199,8 +199,9 @@ DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,xdsummit.com
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net
-DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
+DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,battlebreakers.com

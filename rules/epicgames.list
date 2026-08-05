@@ -1,13 +1,14 @@
 # epicgames — Epic Games Store / Fortnite / Unreal Engine
-# 自动生成于 2026-08-04 22:17 UTC
-# 域名数: 29
+# 自动生成于 2026-08-05 22:15 UTC
+# 域名数: 30
 # 上游源:
 #   - v2fly/domain-list-community/data/epicgames
 #   - 手动维护补充
 #
 # 用法: RULE-SET,<URL>,Proxy
-DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
+DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,battlebreakers.com
