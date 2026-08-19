@@ -1,6 +1,6 @@
 # ubisoft — Ubisoft / Uplay / Ubisoft Connect
-# 自动生成于 2026-08-18 21:29 UTC
-# 域名数: 32
+# 自动生成于 2026-08-19 21:30 UTC
+# 域名数: 31
 # 上游源:
 #   - v2fly/domain-list-community/data/ubisoft
 #
@@ -36,4 +36,3 @@ DOMAIN,ubistatic22-a.akamaihd.net
 DOMAIN,ubistatic23-a.akamaihd.net
 DOMAIN,ubistatic24-a.akamaihd.net
 DOMAIN,ubisoft.siteintercept.qualtrics.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

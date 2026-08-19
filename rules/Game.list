@@ -1,6 +1,6 @@
 # Game — 全平台游戏规则合集
-# 自动生成于 2026-08-18 21:29 UTC
-# 包含 17 个平台, 751 条规则
+# 自动生成于 2026-08-19 21:30 UTC
+# 包含 17 个平台, 750 条规则
 # 由各平台独立规则文件合并而来
 #
 # 用法: RULE-SET,<URL>,Proxy
@@ -698,7 +698,6 @@ DOMAIN,ubistatic22-a.akamaihd.net
 DOMAIN,ubistatic23-a.akamaihd.net
 DOMAIN,ubistatic24-a.akamaihd.net
 DOMAIN,ubisoft.siteintercept.qualtrics.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,masteroforion.com
 DOMAIN-SUFFIX,wargaming.com
 DOMAIN-SUFFIX,wargaming.net
