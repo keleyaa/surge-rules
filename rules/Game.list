@@ -1,6 +1,6 @@
 # Game — 全平台游戏规则合集
-# 自动生成于 2026-10-17 22:58 UTC
-# 包含 17 个平台, 755 条规则
+# 自动生成于 2026-10-18 22:55 UTC
+# 包含 17 个平台, 752 条规则
 # 由各平台独立规则文件合并而来
 #
 # 用法: RULE-SET,<URL>,Proxy
@@ -714,9 +714,6 @@ DOMAIN-SUFFIX,worldofwarplanes.com
 DOMAIN-SUFFIX,worldofwarships.com
 DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wowsblitz.com
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
-DOMAIN,flightsimulator.azureedge.net
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com

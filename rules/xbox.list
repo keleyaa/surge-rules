@@ -1,13 +1,10 @@
 # xbox — Xbox / Game Pass / Xbox Live / Minecraft
-# 自动生成于 2026-10-17 22:58 UTC
-# 域名数: 45
+# 自动生成于 2026-10-18 22:55 UTC
+# 域名数: 42
 # 上游源:
 #   - v2fly/domain-list-community/data/xbox
 #
 # 用法: RULE-SET,<URL>,Proxy
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
-DOMAIN,flightsimulator.azureedge.net
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
