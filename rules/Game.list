@@ -1,6 +1,6 @@
 # Game — 全平台游戏规则合集
-# 自动生成于 2026-11-16 00:53 UTC
-# 包含 17 个平台, 754 条规则
+# 自动生成于 2026-11-17 03:34 UTC
+# 包含 17 个平台, 755 条规则
 # 由各平台独立规则文件合并而来
 #
 # 用法: RULE-SET,<URL>,Proxy
@@ -31,11 +31,12 @@ DOMAIN,blzmedia-a.akamaihd.net
 DOMAIN,blznav.akamaized.net
 DOMAIN-SUFFIX,blizzardgames.cn
 DOMAIN-SUFFIX,blzstatic.cn
-DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
+DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,worldflipper.jp
-DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,umamusume.akamaized.net
+DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,lordofultima.com
